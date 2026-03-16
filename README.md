@@ -64,3 +64,8 @@ pip install -r requirements.txt
 2. Install dependencies: `pip install -r requirements.txt`
 3. Download dataset from competition.
 4. Run script `price_prediction_pipeline.py`
+
+---
+
+## 👥 Contributors
+- [guptaayush006](https://github.com/guptaayush006)
